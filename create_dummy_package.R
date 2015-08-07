@@ -20,7 +20,7 @@ setwd("..")
 install("dummy")
 
 # If you create a github repository for the package, then it can be installed with devtools
-#install_github('cats','jwessnit')
+#install_github('dummy','yourusername')
 
 #?dummy_function to see documentation
 
